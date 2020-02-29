@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="option1">Account Activity</string>
+    <string name="option2">Account Details</string>
+    <string name="option3">Donate Cash</string>
+    <string name="option4">Transaction History</string>
+    <string name="option5">Add Card</string>
+
+</resources>

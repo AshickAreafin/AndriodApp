@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+        <item
+            android:id="@+id/homeId"
+            android:title="Home"
+            android:icon="@drawable/ic_home_black_24dp"
+            app:showAsAction="never"
+
+            />
+        <item
+            android:id="@+id/notificationId"
+            android:title="Notification"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            app:showAsAction="never"
+
+            />
+        <item
+            android:id="@+id/statementId"
+            android:title="Statement"
+            android:icon="@drawable/ic_statement_black_24dp"
+            app:showAsAction="never"
+            />
+        <item
+            android:id="@+id/settingId"
+            android:title="Setting"
+            android:icon="@drawable/ic_settings_black_24dp"
+            app:showAsAction="never"
+
+            />
+        <item
+            android:id="@+id/referenceAFriendId"
+            android:title="Reference A Friend"
+            android:icon="@drawable/ic_reference_black_24dp"
+            app:showAsAction="never"
+
+            />
+        <item
+            android:id="@+id/feedbackId"
+            android:title="FeedBack"
+            android:icon="@drawable/ic_feedback_black_24dp"
+            app:showAsAction="never"
+
+            />
+        <item
+            android:id="@+id/changePasswordId"
+            android:title="Change Password"
+            android:icon="@drawable/ic_change_password_black_24dp"
+            app:showAsAction="never"
+
+            />
+        <item
+            android:id="@+id/logoutId"
+            android:title="logOut"
+            android:icon="@drawable/ic_log_out_black_24dp"
+            app:showAsAction="never"
+
+            />
+
+
+
+
+</menu>

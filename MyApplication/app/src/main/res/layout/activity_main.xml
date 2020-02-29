@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="25sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_marginBottom="25sp"
+            android:layout_width="150dp"
+            android:layout_height="120dp"
+            android:src="@drawable/login"
+
+            />
+        <EditText
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:textSize="25sp"
+            android:textColor="@android:color/holo_orange_dark"
+            android:textStyle="bold"
+            android:id="@+id/emailTextId"
+            android:layout_marginBottom="25dp"
+
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:textSize="25sp"
+            android:textColor="@android:color/holo_orange_dark"
+            android:textStyle="bold"
+            android:id="@+id/passwordTextId"
+            android:layout_marginBottom="25dp"
+            android:inputType="textPassword"
+
+            />
+        <Button
+            android:id="@+id/loginbtnId"
+            android:layout_width="149dp"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="LogIn"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_marginBottom="25sp"
+            android:textAllCaps="false"
+            />
+        <TextView
+            android:id="@+id/signupTextId"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Are You Not A Member? Sign Up "
+            android:textColor="@android:color/holo_orange_dark"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+
+            />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/kawasaki">
+        <item
+            android:id="@+id/nav_kawasaki"
+            android:title="@string/kawasaki"
+            android:icon="@drawable/ic_directions_bike_black_24dp"/>
+    </group>
+    <group android:id="@+id/ktm">
+        <item
+            android:id="@+id/nav_ktm"
+            android:title="@string/ktm"
+            android:icon="@drawable/ic_directions_bike_black_24dp"/>
+    </group>
+    <group android:id="@+id/bajaj">
+        <item
+            android:id="@+id/nav_bajaj"
+            android:title="@string/bajaj"
+            android:icon="@drawable/ic_directions_bike_black_24dp"/>
+    </group>
+    <group android:id="@+id/daytona">
+        <item
+            android:id="@+id/nav_daytona"
+            android:title="@string/daytona"
+            android:icon="@drawable/ic_directions_bike_black_24dp"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>
+
+</menu>

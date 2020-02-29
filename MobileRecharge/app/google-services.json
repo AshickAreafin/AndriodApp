@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909514885818",
+    "firebase_url": "https://mobilerecharge-964d0.firebaseio.com",
+    "project_id": "mobilerecharge-964d0",
+    "storage_bucket": "mobilerecharge-964d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909514885818:android:a1d3eea64bb55125",
+        "android_client_info": {
+          "package_name": "com.example.mobilerecharge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909514885818-e21icltqnjrpoq9p3higgqdavvrt2pv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobilerecharge",
+            "certificate_hash": "d65ac214767f142fd27ac1138f4207e8d2efd64d"
+          }
+        },
+        {
+          "client_id": "909514885818-6b59ltdbv9ckovvbb9o7r5o8hi9d3iqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCPqINkyQ4iM5TJ2j3hcXjio3eO7VdaNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909514885818-6b59ltdbv9ckovvbb9o7r5o8hi9d3iqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

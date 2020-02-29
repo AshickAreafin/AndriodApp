@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="option1">Account Details</string>
+    <string name="option2">Check Balance</string>
+    <string name="option3">Donate Cash</string>
+    <string name="option4">Mobile Recharge</string>
+    <string name="option5">Add Cash</string>
+    <string name="option6">Pay Bills</string>
+    <string name="option7">Cash Out</string>
+    <string name="option8">Transaction History</string>
+    <string name="option9">From Bank</string>
+    <string name="option10">From Card</string>
+    <string name="option11">
+        <a href="https://ibanking.bracbank.com/bblonline/">Brac Bank</a>
+
+        </string>
+    <string name="option12">
+        <a href="https://www.citytouch.com.bd:8443/login.html?fbclid=IwAR0CR5WommROWBoM6PXYTn46P9ixvsaplZT2FIt9xO5Pxhkd2xMoJenkIjE">City Bank</a>
+
+        </string>
+    <string name="option13">
+        <a href="https://ib.dhakabank.com.bd/?fbclid=IwAR1858YXv5gbgy0xErNyvKxd_NuQOCgjo9lUr8kgYdnnUsx0VcjuEWNlMN4">Dhaka Bank</a>
+
+        </string>
+    <string name="option14">
+        <a href="https://ibfcat1.dutchbanglabank.com/B001/ENULogin.jsp">Dutch Bangla bank</a>
+         </string>
+    <string name="option15">
+        <a href="https://mybank.bankasia-bd.com/mybank/logIn.do"> Bank Asia</a>
+
+       </string>
+    <string name="option16">
+        <a href="https://ibank.mutualtrustbank.com/login/login.aspx?fbclid=IwAR0t2SL-wXkKV2LzM0a5rEf0R95_xqfmqPFgd1WPi2ogbsE3-qwJbXkEMPU"> Mutual Trust Bank</a>
+       </string>
+
+
+    <string name="option17">Credit Card</string>
+    <string name="option18">Debit Card</string>
+    <string name="option19">Master Card</string>
+    <string name="option20">Paypal Card</string>
+    <string name="option21">Visa Card</string>
+
+    <string-array name="sim_Name">
+        <item>Grameenphone</item>
+        <item>Banglalink</item>
+        <item>Robi</item>
+        <item>Airtel</item>
+        <item>Teletalk</item>
+
+
+
+    </string-array>
+
+    <string-array name="types_sim">
+        <item>Prepaid</item>
+        <item>Postpaid</item>
+        <item>Auto Recharge</item>
+    </string-array>
+
+
+</resources>

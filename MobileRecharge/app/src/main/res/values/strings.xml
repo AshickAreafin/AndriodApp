@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MobileRecharge</string>
+
+    <string-array name="sim_Name">
+        <item>Grameenphone</item>
+        <item>Banglalink</item>
+        <item>Robi</item>
+        <item>Airtel</item>
+        <item>Teletalk</item>
+
+
+
+    </string-array>
+
+    <string-array name="types_sim">
+        <item>Prepaid</item>
+        <item>Postpaid</item>
+        <item>Auto Recharge</item>
+    </string-array>
+</resources>
